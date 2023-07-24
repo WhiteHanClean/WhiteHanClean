@@ -4,7 +4,6 @@
 
 ### :man_technologist: Обо мне:
 
-
 <h4>Мои навыки</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,8 +15,29 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
-
 ---
+
+<p>I am React developer, I possess a unique set of skills and experience that allows me to create effective and intuitive user interfaces. My job is to use modern technologies and development methodologies to build high-performance web applications that can successfully operate on different devices and platforms.
+
+I developed a website builder, created numerous landing pages, and oversaw the work of junior developers. My technology stack included redux/toolkit/saga/thunk/mobx/vue/nest/python/django I monitored code optimization and worked to increase the competency of interns.
+
+Technologies:
+React js, Next js, Redux-toolkit, JavaScript ES6, REST API, Sass/Less , RTK-Query, Antd/MUI/Blue/framer-motion/react-spring
+Mobx , Typescript<p>
+
+<bold>
+<a href="https://www.figma.com/file/2jr92CFt6rLnaBQ7Q2lgeg/Untitled?type=design&node-id=0-1&t=z5QaZnJdLS46U9fc-0">
+My Resume:</bold>
+
+https://www.figma.com/file/2jr92CFt6rLnaBQ7Q2lgeg/Untitled?type=design&node-id=0-1&t=z5QaZnJdLS46U9fc-0
+
+<p>Как разработчик React я обладаю уникальным набором навыков и опыта, которые позволяют мне создавать эффективные и интуитивно понятные пользовательские интерфейсы. Моя работа заключается в использовании современных технологий и методологий разработки для создания высокопроизводительных веб-приложений, способных успешно работать на разных устройствах и платформах.
+
+Я разработал множество сайтов, создавал продажные лендинги и курировал работу младших разработчиков. Мой стек технологий включал redux/toolkit/saga/thunk/mobx/vue/nest/python/django Я следил за оптимизацией кода и работал над повышением компетенций стажеров.</p>
+
+<bold>
+<a href="https://www.figma.com/file/2jr92CFt6rLnaBQ7Q2lgeg/Untitled?type=design&node-id=0-1&t=z5QaZnJdLS46U9fc-0">
+Мое резюме:</bold>
 
 ### 🤝 Социальные сети:
 
@@ -27,8 +47,6 @@
     <th><a href="https://t.me/MinHek7"><img src="https://img.icons8.com/color/1x/telegram-app"></img></a></th>
   </tr>
 </table>
-    
-   
 
   </div>
 
@@ -118,15 +136,3 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
