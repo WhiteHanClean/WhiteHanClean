@@ -4,7 +4,7 @@
 
 <div>
  <div>
-   <img width="720" height="auto" src=./assets/social_anime_g2.gif>
+   <img width="720" height="auto" src="./assets/social_anime_g2.gif">
   <p align="right">
 
    &nbsp;
