@@ -11,15 +11,15 @@
     
    &nbsp;&#10022; Just call me **Old Cat**
 
-   &nbsp;&#10022; Currently pursuing an applied bachelor's degree in **informatics engineering**
+   &nbsp;&#10022; Currently I work as a middle front-end developer at the company "Commercial Bank of Kyrgyzstan MBANK" **informatics engineering**
 
    &nbsp;&#10022; Have good understanding of Web Development
 
-   &nbsp;&#10022; Have understanding in Bahasa (native), English (fluent), 日本語 (a little bit)
+   &nbsp;&#10022; "Kyrgyz" (Native), "Russian" (Fluent), "English" (B1).
 
-   &nbsp;&#10022; My current goals is To become Fullstack Web Developer, and Get N5 日本語 certificate
+   &nbsp;&#10022; My current goals: I aspire to learn more advanced technologies and reach a senior level. :3
    
-   &nbsp;&#10022; Let's talk about Web development, Security, And Anime stuff
+   &nbsp;&#10022; Let's talk about Web development, and Anime stuff (^_^)
    
   </p>
  </div>
