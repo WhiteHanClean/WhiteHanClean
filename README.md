@@ -4,7 +4,7 @@
 
 <div>
  <div>
-  <img src="./assets/images/haruhiro.png" align="left">
+  <img src="./assets/social_anime_g2.gif" align="left">
   <p align="right">
 
    &nbsp;
