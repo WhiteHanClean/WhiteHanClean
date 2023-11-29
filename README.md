@@ -3,7 +3,7 @@
 <br>
 
 <div>
- <div>
+ <div style="display: flex;"  >
    <img width="300" style="overflow: hidden;" height="auto" src="./assets/images/social_anime_g2.gif"/>
   <p align="right">
 
