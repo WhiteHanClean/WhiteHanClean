@@ -3,10 +3,8 @@
 <br>
 
 <div>
- <div style="display: flex;"  >
-   <img width="300" style="overflow: hidden;" height="auto" src="./assets/images/social_anime_g2.gif"/>
-  <div>
-  <p >
+
+  <p align="left">
 
 &nbsp;
 
@@ -25,6 +23,10 @@
   </p></div>
  </div>
 </div>
+
+ <div >
+   <img width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
+  <div>
 
 <br><br><br><br><br><br>
 
