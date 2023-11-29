@@ -4,7 +4,7 @@
 
 <div>
  <div>
-  <img src="./assets/social_anime_g2.gif" align="left">
+  ![Alt Text](./assets/social_anime_g2.gif)
   <p align="right">
 
    &nbsp;
