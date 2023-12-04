@@ -70,10 +70,11 @@
 &nbsp;&#10022; I use Instagram for uploading my drawing content.
 
   </p>
+   <div align="right">
+  <img src="./assets/images/haruhiro.png" >
+  </div>
 
  </div>
 </div>
 
- <div align="right">
-  <img src="./assets/images/haruhiro.png" >
-  </div>
+
