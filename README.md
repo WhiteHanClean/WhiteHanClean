@@ -71,5 +71,6 @@
 
 
   <img src="./assets/images/haruhiro.png" align="rigth">
+  <img src="./assets/images/yume.png" align="rigth">
  </div>
 </div>
