@@ -74,6 +74,6 @@
  </div>
 </div>
 
- <div align="rigth">
+ <div align="right">
   <img src="./assets/images/haruhiro.png" >
   </div>
