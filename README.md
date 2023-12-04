@@ -24,11 +24,11 @@
  </div>
 </div>
 
+<div align="right">
+  <img width="300" height="auto" src="./assets/images/anime_github1.gif"/>
+</div>
  <div>
 
- <div align="rigth" style="display:block; justify-content: end; margin-left: 70px;">
-   <img align="rigth" width="300" height="auto" src="./assets/images/anime_github1.gif"/>
-  <div>
 </div>
 <br><br><br><br><br><br>
 
