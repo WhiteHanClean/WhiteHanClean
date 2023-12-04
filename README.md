@@ -25,7 +25,7 @@
 </div>
 
  <div style="display:block; justify-content: end; margin-left: 70px;">
-   <img left="55%" width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
+   <img left="55%" width="300" height="auto" src="./assets/images/anime_github1.gif"/>
   <div>
 
 <br><br><br><br><br><br>
