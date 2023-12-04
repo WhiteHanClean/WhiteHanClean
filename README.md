@@ -68,9 +68,7 @@
 &nbsp;&#10022; I use Instagram for uploading my drawing content.
 
   </p>
-
-
   <img src="./assets/images/haruhiro.png" align="rigth">
-  <img src="./assets/images/yume.png" align="rigth">
+
  </div>
 </div>
