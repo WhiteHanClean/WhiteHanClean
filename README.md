@@ -4,7 +4,7 @@
 
 <div>
 
-  <p align="left">
+  <p>
 
 &nbsp;
 
@@ -24,7 +24,7 @@
  </div>
 </div>
 
- <div >
+ <div style="">
    <img width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
   <div>
 
@@ -68,5 +68,8 @@
 &nbsp;&#10022; I use Instagram for uploading my drawing content.
 
   </p>
+
+
+  <img src="./assets/images/haruhiro.png" align="rigth">
  </div>
 </div>
