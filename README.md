@@ -24,8 +24,8 @@
  </div>
 </div>
 
- <div style="">
-   <img width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
+ <div >
+   <img align="rigth" width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
   <div>
 
 <br><br><br><br><br><br>
