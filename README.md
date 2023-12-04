@@ -25,7 +25,7 @@
 </div>
 
 <div style="display: flex; justify-content: flex-end; margin-left: 70px;">
-  <img style="margin-left: 55%; overflow: hidden;" src="./assets/images/anime_github1.gif" alt="Your Image Alt Text"/>
+  <img style="margin-left: 55%;" src="./assets/images/anime_github1.gif" alt="Your Image Alt Text"/>
 </div>
 <br><br><br><br><br><br>
 
