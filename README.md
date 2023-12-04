@@ -24,10 +24,9 @@
  </div>
 </div>
 
- <div style="display:block; justify-content: end; margin-left: 70px;">
-   <img style="margin-left: 100px;" width="300" style="overflow: hidden;" height="auto" src="./assets/images/anime_github1.gif"/>
-  <div>
-
+<div style="display: flex; justify-content: flex-end; margin-left: 70px;">
+  <img style="margin-left: 100px; max-width: 300px; height: auto; overflow: hidden;" src="./assets/images/anime_github1.gif" alt="Your Image Alt Text"/>
+</div>
 <br><br><br><br><br><br>
 
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
