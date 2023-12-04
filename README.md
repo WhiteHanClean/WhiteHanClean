@@ -24,10 +24,16 @@
  </div>
 </div>
 
+ <div>
+ <div width="300" height="auto">
+ 
+ </div>
+
  <div style="display:block; justify-content: end; margin-left: 70px;">
    <img align="rigth" width="300" height="auto" src="./assets/images/anime_github1.gif"/>
   <div>
 
+</div>
 <br><br><br><br><br><br>
 
 <h2 align="center">🧑‍💻 Most Used Technologies 🧑‍💻</h2>
