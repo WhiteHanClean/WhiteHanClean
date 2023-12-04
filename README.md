@@ -25,14 +25,13 @@
 </div>
 
  <div>
- <div width="300" height="auto">
+ <div width="300" height="300">
  
  </div>
 
  <div style="display:block; justify-content: end; margin-left: 70px;">
-   <img align="rigth" width="300" height="300" src="./assets/images/anime_github1.gif"/>
+   <img align="rigth" width="300" height="auto" src="./assets/images/anime_github1.gif"/>
   <div>
-
 </div>
 <br><br><br><br><br><br>
 
