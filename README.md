@@ -50,7 +50,7 @@
 <h2></h2>
 <br><br><br><br><br>
 
-<div>
+<!-- <div>
  <div>
   <img src="./assets/images/mary.png" align="left">
   <p align="right">
@@ -71,10 +71,10 @@
 
   </p>
    <div align="right">
-  <img src="./assets/images/haruhiro.png" >
+    <img src="./assets/images/haruhiro.png" >
   </div>
 
  </div>
-</div>
+</div> -->
 
 
